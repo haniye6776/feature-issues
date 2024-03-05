@@ -1,1 +1,2 @@
 In this project, a data set has been analyzed with the aim of investigating the effect of pre-processing methods on the accuracy of different models. In this part, the missing data were quantified and some features were normalized. Then, different methods of feature extraction and feature selection were used to change the features and the effect of these methods on logistic regression models,K nearest neighborhood and decision tree were investigated separately.
+data: kaggle--->hotel-booking-demand
